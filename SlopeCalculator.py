@@ -15,7 +15,7 @@ y2 = int(y2)
 
 
 #Process
-rise = x2 - x1
+rise = x2 - x1 
 run = y2 - y1
 
 fSlope = rise/run
